@@ -13,7 +13,8 @@ class CakeController extends Controller
      */
     public function index()
     {
-        //
+
+        
     }
 
     /**
@@ -21,7 +22,9 @@ class CakeController extends Controller
      */
     public function create()
     {
-        //
+
+    
+    
     }
 
     /**
